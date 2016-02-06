@@ -17,7 +17,7 @@ github_username:  dwillis
 # Build settings
 markdown: kramdown
 
-permalink: archives/:year/:month/:day/:title/
+permalink: dwillisdotnet/archives/:year/:month/:day/:title/
 
 kramdown:
   syntax_highlighter: rouge
