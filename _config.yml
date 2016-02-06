@@ -1,0 +1,33 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: dwillis.net
+email: dwillis@gmail.com
+description: Hello, it's me.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://dwillis.net" # the base hostname & protocol for your site
+twitter_username: derekwillis
+github_username:  dwillis
+
+# Build settings
+markdown: kramdown
+
+permalink: archives/:year/:month/:day/:title/
+
+kramdown:
+  syntax_highlighter: rouge
+  input:          GFM
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+version:             0.0.1
