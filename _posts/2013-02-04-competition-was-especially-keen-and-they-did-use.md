@@ -1,6 +1,6 @@
 ---
 layout: post
-title: competition was especially keen and they did use
+title: Lexington Herald-Leader
 date: '2013-02-04T14:01:43-05:00'
 tags: []
 ---

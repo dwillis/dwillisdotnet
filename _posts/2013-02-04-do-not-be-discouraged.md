@@ -1,6 +1,6 @@
 ---
 layout: post
-title: do not be discouraged
+title: Arizona Republic
 date: '2013-02-04T14:17:05-05:00'
 tags: []
 ---
