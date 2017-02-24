@@ -4,7 +4,6 @@ title: Magic Removal
 date: '2013-01-23T20:45:00-05:00'
 tags:
 - aaronsw
-tumblr_url: http://dwillis.net/post/41323679156/magic-removal
 ---
 
 
